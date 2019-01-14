@@ -1,2 +1,0 @@
-# GameMaker2
-GameMaker
